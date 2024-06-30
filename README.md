@@ -29,4 +29,8 @@ This project investigates the use of machine learning to predict the likelihood 
 
 **Development Environment:** Jupyter Notebook (interactive coding environment)
 
+## Data Set
+
+[Download Here](https://www.dropbox.com/scl/fi/0uiujtei423te1q4kvrny/diabetes.csv?rlkey=20xvytca6xbio4vsowi2hdj8e&e=1&dl=0)
+
 
